@@ -18,5 +18,4 @@ Run_analysis script expects the following files in the working directory where i
 > run_analysis also writes the data file to the working directory, if there is access. 
 > Please see run_analysis comments for script details.
 
->Origin
 
